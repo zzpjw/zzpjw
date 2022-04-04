@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=#2B037A"/>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=#000000"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=#000000"/>
-<img src="https://img.shields.io/badge/Amazon AWS
--232F3E?style=flat-square&logo=Amazon AWS
-&logoColor=#232F3E"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>
