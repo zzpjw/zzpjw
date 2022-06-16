@@ -13,14 +13,13 @@
 
 <div align=center>
 
-#### 안녕하세요! 
+#### 안녕하세요!
 #### 차(Tea)문화를 즐기는 개발자 권지원 개인 GitHub입니다!
-#### Node.js를 사용하여 Backend 개발을 합니다.
-#### 하고자 마음 먹은 것은 반드시 이루어내는 개발자가 되고자 합니다.
-#### 개발은 공부할 것들이 많아서 지루할 틈 없이 즐거운 것 같습니다.
-#### 새로운 기술 스택을 활용한 사이드 프로젝트는 언제나 환영입니다. 
-#### 이메일을 통해 연락해주세요:)
-
+#### Node.js를 사용하여 Back-end 개발을 합니다.
+#### 하고자 마음먹은 것은 반드시 이루어내는 개발자가 되고자 합니다.
+#### 아직 개발자로서 공부할 것들이 많아 지루할 틈 없이 즐겁습니다.
+#### 새로운 기술 스택을 활용한 사이드 프로젝트는 언제나 환영입니다.
+#### 이메일을 통해 연락해 주세요:)
 
 ---
 ## ✨ projects
@@ -64,8 +63,9 @@
     
 ### 🌊 currently learning
 
-![NginX](https://img.shields.io/badge/NginX-009639?style=for-the-badge&logo=NginX&logoColor=white)
-![]()
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![ts-node](https://img.shields.io/badge/tsnode-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
 
 ### 🔅 tools
 
