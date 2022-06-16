@@ -80,8 +80,8 @@
 
 ### 👉[기술 블로그][blog-link]👈
 
-[blog-link]: https://blog.naver.com/jiwonkwon97 '권지원 기술 블로그 바로가기!'
+[blog-link]: https://blog.naver.com/jiwonkwon97 '맛있는 개발자 블로그!'
 
-#### <b>코딩테스트 알고리즘 공부 내용과 새로 공부하는 기술 스택을 여유가 있을 때 적어 나가고 있습니다.</b>
+#### <b>매일의 느낀점과 공부하는 기술 스택과 알고리즘 공부 내용을 적어 나가고 있습니다.</b>
          
 </div>
