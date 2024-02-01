@@ -26,6 +26,6 @@
 
 ### <b>Familiar Language</b> : JAVASCRIPT TYPESCRIPT SQL HCL DART </br>
 ### <b>Readable Language</b> : C JAVA PYTHON </br>
-### <b>Familiar Tool</b> : NEXT.JS EXPRESS.JS REACT.JS NEST.JS </br>
+### <b>Familiar Tool</b> : NEXT.JS EXPRESS.JS REACT.JS NEST.JS </br>
 ### <b>Available Tool</b> : FLUTTER TERRAFORM
 ### <b>Language to study</b> : GO RUST
